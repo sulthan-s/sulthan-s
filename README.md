@@ -24,4 +24,6 @@ const sulthan = {
 };
 
 📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sulthan-s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulthan-s&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FFFFFF" width="48%" /> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sulthan-s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulthan-s&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FFFFFF" width="48%" />
+</div>
