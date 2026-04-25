@@ -37,7 +37,7 @@
 ```python
 class SulthanSiyad:
     def __init__(self):
-        self.name        = "Sulthan Siyad"
+        self.name        = "Sulthan S"
         self.role        = ["AI / ML Engineer", "Data Scientist"]
         self.location    = "Kerala, India 🇮🇳"
 
