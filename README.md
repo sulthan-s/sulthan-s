@@ -39,7 +39,7 @@ class SulthanSiyad:
     def __init__(self):
         self.name        = "Sulthan S"
         self.role        = ["AI / ML Engineer", "Data Scientist"]
-        self.location    = "Kerala, India 🇮🇳"
+        self.location    = "Hyderabad, India 🇮🇳"
 
         self.languages   = ["Python", "SQL"]
 
